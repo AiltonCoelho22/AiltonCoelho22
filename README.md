@@ -1,4 +1,5 @@
-## Hi there 👋https://camo.githubusercontent.com/387f518e229ef5fb5bd87fd2b906507c0745f2eb7bb42bdcbe628a8d0799cecc/68747470733a2f2f70706c2e70742f73697465732f64656661756c742f66696c65732f626c6f672f76727935302e676966
+## Hi there 👋 ![image](https://github.com/user-attachments/assets/c696ee2e-2b08-4e10-8b97-fcd457269a3d)
+
 
 
 <!--
