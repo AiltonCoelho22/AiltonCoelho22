@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 ![image](https://github.com/user-attachments/assets/f0697202-3f70-4b43-ab21-1addd77ac4df)
+
 
 <!--
 **AiltonCoelho22/AiltonCoelho22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
