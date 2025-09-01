@@ -1,4 +1,20 @@
-## Hi there 👋 ![image](https://github.com/user-attachments/assets/c696ee2e-2b08-4e10-8b97-fcd457269a3d)
+## 👋 Olá, eu sou [Ailton Coelho]!
+
+## Sou estudante de progrmação apaixonado por criar soluções que fazem a diferença🔭.
+
+### 🛠️ Habilidades e Ferramentas
+- **Linguagens:** `HTML`, `Python`, `CSS`
+
+
+### 🌐 Conecte-se comigo
+- **LinkedIn:** ()
+- **Twitter:** ()
+- **E-mail:** (acpneto6@gmail.com)
+
+
+
+
+
 
 
 
