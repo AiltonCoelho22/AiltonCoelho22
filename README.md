@@ -8,7 +8,7 @@
 
 ### 🌐 Conecte-se comigo
 - **LinkedIn:** ()
-- **Twitter:** ()
+- **Instagram:** ()
 - **E-mail:** (acpneto6@gmail.com)
 
 
