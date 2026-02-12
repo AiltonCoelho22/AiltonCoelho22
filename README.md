@@ -1,43 +1,31 @@
-# 👋 Olá, eu sou o Ailton Coelho
+# Ailton Coelho
 
-🎯 **Desenvolvedor em formação**  
-💻 Apaixonado por **Code, Design e Propósito**  
-✨ Criando soluções com **fé e excelência**
+Desenvolvedor em formação, focado em desenvolvimento web e boas práticas de programação.
 
----
-
-### 🚀 Habilidades & Ferramentas
-💡 **Linguagens:** HTML · CSS · JavaScript · Python  
-🧩 **Interesses:** Front-end · UI/UX · Automação · Produtividade  
+🎓 Graduando em Análise e Desenvolvimento de Sistemas – Estácio  
+🛠️ Técnico em Desenvolvimento de Sistemas (em conclusão)
 
 ---
 
-### 🌐 Onde me encontrar
-📸 Instagram: [@ailton.code](https://www.instagram.com/ailton.code/)  
-💼 LinkedIn: [em breve]  
-📧 E-mail: acpneto6@gmail.com  
+## Tecnologias
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px"/>
+</p>
 
 ---
 
-> “Tudo que eu fizer, que seja pra glória de Deus.” ✝️  
-> _Explorando mundos virtuais e construindo o futuro com propósito._
+## Objetivo
 
+Desenvolver soluções web eficientes, com foco em organização de código, experiência do usuário e evolução constante como profissional de tecnologia.
 
+---
 
+## Contato
 
-
-
-<!--
-**AiltonCoelho22/AiltonCoelho22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 acpneto6@gmail.com  
+📸 https://www.instagram.com/ailton.code/  
+💼 LinkedIn: Em breve
