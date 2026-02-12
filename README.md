@@ -28,4 +28,4 @@ Desenvolver soluções web eficientes, com foco em organização de código, exp
 
 📧 acpneto6@gmail.com  
 📸 https://www.instagram.com/ailton.code/  
-💼 LinkedIn: Em breve
+💼 LinkedIn https://www.linkedin.com/in/ailton-coelho-004273311/
